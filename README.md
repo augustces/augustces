@@ -1,20 +1,10 @@
-## 👋 E aí, meu nome é Augusto César
+## 👋 Olá, meu nome é Augusto César
 
 ### Sobre mim
 
 🎓 Estudante de Ciência da Computação na UFC  
-🧪 Analista de Testes/QA voluntário no SouJunior Labs  
+🧪 Analista de Testes/QA 
 💻 Apaixonado por qualidade de software, dados e automação  
-🚀 Explorando Machine Learning e Ciência de Dados
-
----
-
-## 📊 Interesse em Dados
-
-📚 Estudando Machine Learning, Estatística e Processamento de Dados  
-🔍 Projetos com aprendizado supervisionado, não supervisionado e redes neurais  
-🧠 Experiência com análise exploratória, visualização e pré-processamento  
-🛠️ Ferramentas: Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL, Google Colab, Jupyter
 
 ---
 
